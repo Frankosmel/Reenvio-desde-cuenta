@@ -1,0 +1,5 @@
+telethon==1.36.0
+aiogram==2.25.1
+apscheduler==3.10.4
+aiosqlite==0.20.0
+python-dotenv==1.0.1
