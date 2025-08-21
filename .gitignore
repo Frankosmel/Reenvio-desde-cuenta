@@ -1,0 +1,8 @@
+# Sesión y DB (no subirlos)
+*.session
+*.session-journal
+control.db
+.env
+__pycache__/
+*.pyc
+temp_media*
